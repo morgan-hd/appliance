@@ -1,0 +1,22 @@
+{
+  "name": "appliance",
+  "version": "0.0.0",
+  "description": "\"MSFT Framework Bot\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morgan-hd/appliance.git"
+  },
+  "author": "morgan-hd",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/morgan-hd/appliance/issues"
+  },
+  "dependencies": {
+    "botbuilder": "~3.7.0",
+    "restify": "~4.3.0"
+  }
+}
